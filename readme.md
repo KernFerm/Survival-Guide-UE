@@ -23,6 +23,7 @@ survival_guide/
 │   ├── emergency_response.py (emergency response for disasters and grid-down scenarios)
 │   ├── water_tracker.py (water and food consumption tracker with rationing)
 │
+├── install_python.bat (python 3.11.6 installer batchfile)
 ├── main.py (main entry point to access all survival tools)
 ├── README.md (this guide)
 └── requirements.txt (lists Python dependencies)
@@ -102,7 +103,8 @@ survival_guide/
 
 ---
 
-### [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+### Use the `install_python.bat` to install python 3.11.6
+
 
 ---
 
