@@ -140,6 +140,7 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+- or use the `run.bat` to install the dependencies.
 
 ## How to Use the Project
 
