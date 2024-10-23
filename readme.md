@@ -102,6 +102,10 @@ survival_guide/
 
 ---
 
+### [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+
+---
+
 ## Installation
 
 1. Clone the repository or download the project files:
