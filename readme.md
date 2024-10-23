@@ -27,6 +27,7 @@ survival_guide/
 ├── main.py (main entry point to access all survival tools)
 ├── README.md (this guide)
 └── requirements.txt (lists Python dependencies)
+└── run.bat (installed the dependencies)
 ```
 
 
