@@ -57,3 +57,6 @@ pip-delete-this-directory.txt
 
 # Ignore unnecessary Git management files
 *.orig
+
+# Ignore Batch file
+*.bat
