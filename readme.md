@@ -6,6 +6,8 @@ This comprehensive **Survival Guide** equips you with the tools, techniques, and
 
 ---
 
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 ### Project Structure
 
 ```
