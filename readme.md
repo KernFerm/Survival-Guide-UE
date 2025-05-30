@@ -106,7 +106,7 @@ survival_guide/
 
 ---
 
-### Use the `install_python.bat` to install python 3.11.6
+### Use the `install_python.bat` to install python 3.11.9
 
 
 ---
