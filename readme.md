@@ -115,7 +115,7 @@ survival_guide/
 
 1. Clone the repository or download the project files:
 ```
-git clone https://github.com/kernferm/survival_guide.git
+git clone https://github.com/KernFerm/Survival-Guide-UE.git
 ```
 
 2. **Create a virtual environment (optional but recommended):**
