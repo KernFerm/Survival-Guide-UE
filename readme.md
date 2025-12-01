@@ -6,7 +6,10 @@ This comprehensive **Survival Guide** equips you with the tools, techniques, and
 
 ---
 
-- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 
 ### Project Structure
 
@@ -204,3 +207,4 @@ Update `water_tracker.py` to customize how much water or food is needed for your
 ## Credits
 
 Developed by `Bubbles The Dev`, dedicated to providing accessible survival knowledge for everyone. 🌍🌱
+
